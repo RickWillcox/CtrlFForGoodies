@@ -4,6 +4,7 @@ no order or logical layout for this one.
 
 **Kill process running on a specific port.**
 ```
+kill $(lsof -t -i:8000)
 kill port, process port: https://stackoverflow.com/questions/11583562/how-to-kill-a-process-running-on-particular-port-in-linux
 ```
 
