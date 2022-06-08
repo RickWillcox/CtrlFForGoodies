@@ -38,3 +38,8 @@ ln -s /home/<user>/dev/android-studio/bin/android-studio /home/<user>/dev/androi
 export PATH=~/dev/android-studio/bin:$PATH
  add the last command I told you to enter to your ~/.bashrc to have that persistent. I do prefer the second method over the first because it allows you to run all of the commands that are in that directory as well
 ```
+
+**AVD Linux**
+```
+https://stackoverflow.com/a/42955322/11977031
+```
